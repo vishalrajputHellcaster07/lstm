@@ -21,11 +21,11 @@ Tensorflow and keras
 
 1- Simply open Command Window and write:(for Numpy, Sklearn,Matplotlib,Pandas)
 
-pip install libraryname(eg- pip install Numpy)
+     pip install libraryname(eg- pip install Numpy)
 
-        or
+  or
 
-pip3 install libraryname(eg- pip3 install Numpy)
+     pip3 install libraryname(eg- pip3 install Numpy)
 
 this command download required library and install it for you.
 
@@ -35,12 +35,12 @@ this command download required library and install it for you.
 
 Windows
 
-pip3 install --upgrade tensorflow
+     pip3 install --upgrade tensorflow
 
 
 
 3- Keras Installation
 
-sudo pip install keras 
+     sudo pip install keras 
 
 END>>
